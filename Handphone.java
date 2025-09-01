@@ -1,5 +1,3 @@
-package Latihan;
-
 public class Handphone {
     String hidupkan;
     String lakukanPanggilan;

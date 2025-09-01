@@ -1,5 +1,3 @@
-package Latihan;
-
 public class HandphoneBeraksi {
     public static void main(String[] args) {
         Handphone hp = new Handphone();
